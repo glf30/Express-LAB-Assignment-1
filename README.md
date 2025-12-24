@@ -102,4 +102,5 @@ const foodTrucks = {
 - If the URL ends in /pizza, return only trucks that serve "pizza"
 - If the URL ends in /vegetarian, return only trucks that serve "vegetarian"
 - If the URL ends in /tacos, return only trucks that serve "tacos"
+- If the URL ends in /italianOpen, return only trucks that server "italian" and are open
 - If the URL ends in anything else, respond with a failure message.
